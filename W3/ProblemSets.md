@@ -1,5 +1,18 @@
 # Sort
+```txt
+sort1 uses: Bubble
 
+How do you know?: Based on the timed evaluations of the unsorted vs sorted datasets, sort1 operated faster than sort3 sort but lagged behind sort2.
+
+sort2 uses: Merge
+
+How do you know?: Based on the timed evaluations of the unsorted vs sorted datasets, sort2 operated faster on unsorted and sorted data than the other two programs/algorithms.
+
+
+sort3 uses: Selection
+
+How do you know?: By process of elimination and based on time performance metrics, sort3 performed the slowest on sorted data which it should perform better on but slower than both algorithms. However, the program was quicker than sort1 on unsorted data.
+```
 ---
 # Plurality
 
